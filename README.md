@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 <h3 align="center">👀 I’m interested in mainly AI and Data Science</h3>
 
-- 🌱 I’m currently learning **Tensorflow and Pytorch**
-
 - 📫 How to reach me **tvsonawane10117@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
