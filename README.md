@@ -1,16 +1,57 @@
-<h1 align="center">Hi 👋, I'm Tanmay</h1>
-<h3 align="center">👀 I’m interested in mainly AI and Data Science</h3>
+# Tanmay Sonawane
 
-- 📫 How to reach me **tvsonawane10117@gmail.com**
+**Backend Engineer · Systems Builder · AI Integration**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tanmay-sonawane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanmay-sonawane" height="30" width="40" /></a>
-<a href="https://kaggle.com/tany1404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="tany1404" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tan1404may" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tan1404may" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@tvsonawane10117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tvsonawane10117" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/_tany1404_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_tany1404_" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## About
+
+Backend Engineer with 3 years of experience building production systems in
+ASP.NET Core, C#, and Python. I focus on REST API design, system
+integrations, and backend automation — solving real operational problems,
+not just shipping features.
+
+At Tata Consulting Engineers, I reduced engineering diagram generation from
+4–5 days to under 5 minutes (99% reduction) by architecting the full
+backend and database layer of an SLD generation platform used by
+CTO-level stakeholders. I also built a downtime tracking system across
+16 power plants replacing months-long manual resolution cycles, migrated
+a WinForms desktop application to a centralized ASP.NET Core web platform,
+and cut document processing time from ~2 days to minutes via Python
+automation scripts — all delivered in production.
+
+---
+
+## Skills
+
+**Languages** · C#, Python, JavaScript
+
+**Backend & Frameworks** · ASP.NET Core MVC, REST API Design,
+Entity Framework, Flask, Microservices Architecture
+
+**Databases** · SQL Server, MongoDB
+
+**AI & Agents** · LangChain, LangGraph, FAISS, RAG, Groq LLaMA
+
+**Tools** · Git, Postman, Power BI
+
+---
+
+## Currently Learning & What I'm Looking For
+
+**Learning**
+- Microsoft Azure — AZ-900 certification path in progress
+- Terraform — infrastructure as code basics
+- Platform Engineering concepts — Kubernetes, cloud-native architecture
+
+**Looking for**
+A backend engineering role where I can work on API design, system
+integrations, and scalable backend services — ideally at a product company
+where engineering quality is taken seriously.
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanmay_Sonawane-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/tanmay-sonawane)
+[![Email](https://img.shields.io/badge/Email-tvsonawane10117@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tvsonawane10117@gmail.com)
